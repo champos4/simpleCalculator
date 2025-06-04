@@ -1,6 +1,6 @@
 
 🧮 Simple Calculator
-Simple Calculator is a lightweight web application that allows users to perform basic arithmetic operations quickly and efficiently. Designed with simplicity in mind, it offers a clean interface and easy usability for everyday calculations.
+Simple Calculator is a lightweight web application that allows users to perform basic arithmetic operations quickly and efficiently. Designed with simplicity in mind, it offers a clean interface and easy usability for everyday calculations!
 
 ⚙️ Features
 ➕ Basic Operations: Supports addition, subtraction, multiplication, and division.
